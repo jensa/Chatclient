@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ChatClientActivity!</string>
+    <string name="app_name">ChatClient</string>
+    <string name="send">Send</string>
+    <string name="logout">Log in</string>
+    <string name="welcome">Welcome to the chat! please enter the host IP and login. To set your username, write /setname yourname.\n</string>
+    <string name="showusers">Show connected users</string>
+
+</resources>
